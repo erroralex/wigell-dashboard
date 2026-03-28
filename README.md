@@ -2,12 +2,12 @@
 
 Wigell Dashboard är en centraliserad övervakningspanel baserad på **Spring Boot Admin**. Den ger en visuell översikt över status, hälsa och mätvärden för samtliga mikrotjänster i Wigell-ekosystemet.
 
-## 🛠 Teknisk Stack
+## Teknisk Stack
 * **Java:** 24
 * **Ramverk:** Spring Boot 3.5.4
 * **Övervakning:** Spring Boot Admin Server 3.2.3
 
-## 🚀 Kom igång
+## Kom igång
 Dashboarden körs som standard på port **8081**.
 
 1.  Kör applikationen:
@@ -19,7 +19,7 @@ Dashboarden körs som standard på port **8081**.
 
 ---
 
-## 📘 Integrationsguide
+## Integrationsguide
 
 För att en mikrotjänst ska synas i denna dashboard krävs att den konfigureras som en klient.
 
